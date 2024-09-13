@@ -17,7 +17,7 @@
 <a href="https://github.com/harshvardhanberia">
 <img align="center"
 		height="150em"
-		src="https://github-readme-stats.vercel.app/api?username=harshvardhanberia" />
+		src="https://github-readme-stats.vercel.app/api?username=harshvardhanberia&show_icons=true" />
 </a>
 <a href="https://github.com/harshvardhanberia">
 <img align="center"
